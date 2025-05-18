@@ -35,7 +35,10 @@ This is basically a clone of the Scratch site by MIT. It is a platform where you
 5. Enjoy!
 
 ---
+## 🖼️ Screenshots
+![Screenshot 2025-05-18 230737](https://github.com/user-attachments/assets/71637460-ca80-4a2c-809f-efe4507d5807)
 
+![Screenshot 2025-05-18 225133](https://github.com/user-attachments/assets/23b01cb7-9901-4cdb-b956-4cf559ee3f9e)
 ## Tech stack used
 
 - React
