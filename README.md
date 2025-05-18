@@ -3,7 +3,11 @@
 This is basically a clone of the Scratch site by MIT. It is a platform where you can create your own custom games and animations.
 
 ---
+## 🔗 Project Repository
 
+[Click here to view the project on GitHub](https://github.com/Danishk23/Juspay-assessment-danishk.git)
+
+---
 ## How it works?
 
 - The interface consists of many components rendered in the sidebar based on different key-value pairs.
