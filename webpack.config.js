@@ -8,9 +8,9 @@ module.exports = [
     mode: "development",
     target: "web",
     output: {
-    // filename: "app.js",
-    path: path.resolve(__dirname, "public"),
-  },
+      path: path.resolve(__dirname, "dist"), // ✅ changed from "public" to "dist"
+      // filename: "app.js", // (still commented out, fine)
+    },
     plugins: [
       new HtmlWebpackPlugin({
         template: "./src/index.html",
