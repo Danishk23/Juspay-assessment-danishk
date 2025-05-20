@@ -8,6 +8,10 @@ This is basically a clone of the Scratch site by MIT. It is a platform where you
 [Click here to view the project on GitHub](https://github.com/Danishk23/Juspay-assessment-danishk.git)
 
 ---
+## 🚀 Live Demo
+
+[Click here to view the deployed project](https://juspayassessment1.netlify.app/)
+
 ## How it works?
 
 - The interface consists of many components rendered in the sidebar based on different key-value pairs.
