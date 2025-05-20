@@ -12,6 +12,12 @@ This is basically a clone of the Scratch site by MIT. It is a platform where you
 
 [Click here to view the deployed project](https://juspayassessment1.netlify.app/)
 
+
+---
+## Google drive for demo video 
+[https://drive.google.com/file/d/1f_KcrzHT5Jb1X7xyQFDWmNYso_F-w5wY/view)
+
+
 ## How it works?
 
 - The interface consists of many components rendered in the sidebar based on different key-value pairs.
@@ -50,5 +56,3 @@ This is basically a clone of the Scratch site by MIT. It is a platform where you
 - React DnD (outdated but used for this project)
 - React Redux Toolkit
 - Tailwind CSS
-## google drive for demo video 
-[https://drive.google.com/file/d/1f_KcrzHT5Jb1X7xyQFDWmNYso_F-w5wY/view)
